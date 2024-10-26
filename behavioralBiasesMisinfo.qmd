@@ -1,0 +1,35 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+<div class="floating-box">
+# Behavioral Biases on Misinformation
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Date: October 05, 2024
+</span>
+
+This project contributes experimental evidence to the discussion of how to increase fact-checking by analyzing how overconfidence and motivated reasoning affect the willingness to pay to verify whether a headline is correct. Making available the alternative of perfect verification experimentally allows us to abstract from a specific fact-checking strategy (some of them more effective and accepted than others) and focus on the potential impact of behavioral biases on the demand for fact-checking.
+
+We present experimental results on how changes in the probability of receiving fake news affect the demand for fact-checking. We also explore how the level of government approval affects the demand for fact-checking headlines that are favorable (or not) to the government.
+
+I presented this paper in the [ESA NAM 2024](https://drive.google.com/file/d/1r4hJ1rOgyfme_8VWYeb5_mlux_86P8JR/view).
+---
+</div>

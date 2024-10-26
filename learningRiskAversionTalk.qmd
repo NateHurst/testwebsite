@@ -1,0 +1,31 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+<div class="floating-box">
+# Learning your own risk aversion
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Date: October 05, 2022
+</span>
+
+I presented this paper in the [ESA NAM 2023](https://sites.google.com/uncc.edu/esa-charlotte-2023/program_1?authuser=0).
+---
+</div>

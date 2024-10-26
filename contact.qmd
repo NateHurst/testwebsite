@@ -1,0 +1,25 @@
+---
+format: html
+css: styles.css
+---
+<style>
+body {
+  background-image: url('images/watch2.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+</style>
+<span style="font-size: 35px; color:#ff6363;"> __<u>Email:</u> dariotrujanoochoa@ucsb.edu__ </span>
+
+<span style="font-size: 35px; color:#63d9ff;"> __<u>Twitter:</u> DarioTrujano__ </span>
+
+<span style="font-size: 35px; color:#acaf93;"> __<u>Github:</u> DarioTrujanoOchoa__ </span>
+
+<span style="font-size: 35px; color:#63ff75;"> __<u>Google Scholar:</u> https://orcid.org/my-orcid?orcid=0000-0003-1106-4088__ </span>
+
+<span style="font-size: 35px; color:#f2ff63;"> __<u>ORCID:</u> https://scholar.google.com/citations?hl=en&user=T-xX3w0AAAAJ__ </span>
+
+<span style="font-size: 45px;"> __Thanks for Visiting!__ </span>

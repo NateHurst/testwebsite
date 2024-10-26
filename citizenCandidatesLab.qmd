@@ -1,0 +1,34 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/abstract3.png');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+# Citizen Candidates in the Lab: Rules, Costs, and Positions
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Published in <i>Journal of Behavioral and Experimental Economics,</i> 2022
+</span>
+
+[Recommended citation: Elbittar, Gomberg, Trujano-Ochoa (2021). Citizen Candidates in the Lab: Rules, Costs, and Positions; Journal of Behavioral and Experimental Economics, 112.](https://doi.org/10.1016/j.socec.2024.102276)
+
+We present results of a lab experimental study of candidate entry in a citizencandidate environment under plurality and run-off electoral systems, varying both entry costs and ideal points of the potential candidates. The comparative predictions of the citizen-candidate model are shown to hold; however, subjects exhibit substantial degree of over-entry from electorally disadvantaged positions.
+
+---
+
+[Download the Paper here.](https://www.sciencedirect.com/science/article/abs/pii/S2214804324001137)

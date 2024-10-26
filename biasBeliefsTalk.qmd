@@ -1,0 +1,33 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+<div class="floating-box">
+# Biased Beliefs with Heterogeneous Priors
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Date: June 01, 2023
+</span>
+
+This research explores experimentally whether information acquisition depends on whose strategy is implemented in a Bayesian learning task. In the first section of the experiment, I measured the deviation from Bayes’ rule for each participant and their expected posterior from other participants. In the second section, I elicit the willingness to pay to get a new signal and implement a rule based on their posterior beliefs. On average, participants expect others to have the same posterior beliefs. Finally, it is shown that participants exhibit a larger willingness to pay for a signal realization when they implement their strategy rather than the strategy of another participant. This results contribute to the literature on preferences for decision rights and delegation, as well as strategic uncertainty.
+
+I presented this paper for my [advancement to candidacy](https://www.econ.ucsb.edu/events/all/2023/advancement-candidacy-presentation-biased-beliefs-heterogeneous-priors-dario).
+---
+</div>

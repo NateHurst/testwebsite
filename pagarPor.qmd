@@ -1,0 +1,31 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+<div class="floating-box">
+# ¿Cuánto pagar por descubrir?
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Date: September 18, 2024
+</span>
+
+You can see the presentation (in Spanish) [here](https://www.youtube.com/live/xuCWxZdy8oc).
+---
+</div>

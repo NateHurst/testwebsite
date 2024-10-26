@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dario Trujano-Ochoa"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Research.qmd
+        text: Research
+      - href: talks.qmd
+        text: Teaching & Talks
+      - href: CV.qmd
+        text: CV
+    tools: 
+      - icon: envelope
+        href: contact.html
+      - icon: twitter
+        href: https://twitter.com/DarioTrujano
+      - icon: github
+        href: https://github.com/DarioTrujanoOchoa
+      - icon: book
+        href: https://scholar.google.com/citations?hl=en&user=T-xX3w0AAAAJ
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

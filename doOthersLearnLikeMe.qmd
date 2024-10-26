@@ -1,0 +1,34 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/abstract3.png');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+# Do Others Learn like Me? Higher Order Willingness to Pay for Information
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Published: April 01, 2024
+</span>
+
+This research explores experimentally whether information acquisition depends on whose strategy is implemented in a Bayesian learning task. In the first section of the experiment, I measured the deviation from Bayes’ rule for each participant and their expected posterior from other participants. In the second section, I elicit the willingness to pay to get a new signal and implement a rule based on their posterior beliefs. On average, participants expect others to have the same posterior beliefs. Finally, it is shown that participants exhibit a larger willingness to pay for a signal realization when they implement their strategy rather than the strategy of another participant. These results contribute to the literature on preferences for decision rights and delegation, as well as strategic uncertainty.
+
+---
+
+## Full Paper
+
+<iframe src="papers/Higher_Order_Willingness_to_Pay.pdf" width="150%" height="800px" style="border:1px solid #ccc; border-radius: 8px;"></iframe>

@@ -1,0 +1,62 @@
+---
+format: html
+css: styles.css
+---
+<style>
+body {
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+<div class="floating-box">
+## __Teaching__
+<div class="section">
+
+* __[Instructor Experience](instructor.qmd)__
+
+<span style="font-size: 15px;">- Courses where I have been the instructor, UCSB, UNAM, 2021. Follow the link to see the courses I have been the instructor for. </span>
+
+* __[Head Teaching Assistant](headTA.qmd)__
+
+<span style="font-size: 15px;">- Helping organize the activities of Instructors, Teaching Assistants, and Students, Department of Economics, 2024. Follow the link to see the courses for which I have been the head teaching assistant. </span>
+
+* __[Teaching Assistant](TA.qmd)__
+
+<span style="font-size: 15px;">- Helping with Sections, Office Hours, and Grading., UCSB, CIDE, 2019. Follow the link to see the courses for which I have been a teaching assistant. </span>
+</div>
+---
+
+## Talks
+* __[Behavioral Biases on Misinformation](behavioralBiasesMisinfo.qmd)__
+
+  <span style="font-size: 15px;">- October 05, 2024 - Presentation at ESA North America Meeting, Columbus, Ohio </span>
+
+* __[¿Cuánto pagar por descubrir?](pagarPor.qmd)__
+
+  <span style="font-size: 15px;">- September 18, 2024 - Presentation at Auditorio Florente Lopez, UNAM </span>
+
+* __[¿Cuándo verificamos las noticas?](verificamosNoticas.qmd)__
+
+  <span style="font-size: 15px;">- June 01, 2024 - Presentation at Online, Seminario de Investigación en Ciencias del Comportamiento </span>
+
+* __[Do Others Believe the Same? Experimental Analysis of Higher-Order Learning and WTP for Information](doOthersBelieveTalk.qmd)__
+
+  <span style="font-size: 15px;">- October 05, 2023 - Presentation at ESA North America Meeting, Charlotte, NC. </span>
+
+* __[Biased Beliefs with Heterogeneous Priors](biasBeliefsTalk.qmd)__
+
+  <span style="font-size: 15px;">- June 01, 2023 - Presentation at North Hall 1112, UCSB </span>
+
+* __[Learning your own risk aversion](learningRiskAversionTalk.qmd)__
+
+  <span style="font-size: 15px;">- October 05, 2022 - Presentation at ESA North America Meeting, Santa Barbara, CA. </span>
+---
+</div>

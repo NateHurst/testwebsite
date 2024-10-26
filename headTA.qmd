@@ -1,0 +1,30 @@
+---
+format: html
+---
+<style>
+body {
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+<div class="floating-box">
+# Head Teaching Assistant
+
+Coordinate the activities of Instructors, Teaching Assistants, Undergrad Helpers, and Students, *Department of Economics* 2024
+
+**List of courses where I have been the Head TA**
+
+### UCSB
+
+- **ECON 5:** Statistics for Economics  
+  (Winter 2024, Fall 2024)
+
+</div>

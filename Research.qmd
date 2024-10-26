@@ -1,0 +1,60 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/abstract3.png');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+<div class="floating-box">
+## Research
+
+::: {.panel-tabset}
+
+### __Papers In Progress__
+
+::: {.panel-group}
+
+- ### [The Effect of Feedback on News Verification Demand: Experimental Evidence (JMP)](newsVerificationFeedback.qmd)
+    <span style="font-size: 15px;">We test the effect of feedback on headline verification demand and measure willingness to pay along with confidence levels and other factors.</span>
+
+- ### [Replication Report of “Belief Elicitation and Behavioral Incentive Compatibility” by Danz, Vesterlund, and Wilson (2022)](beliefElicitationCompatibility.qmd)
+    <span style="font-size: 15px;">Placeholder</span>
+
+- ### [Do Others Learn like Me? Higher Order Willingness to Pay for Information](doOthersLearnLikeMe.qmd)
+    <span style="font-size: 15px;">Placeholder</span>
+
+:::
+
+### __Published Works__
+
+::: {.panel-group}
+
+- ### [Learning Your Own Risk Preferences](learnYourRisk.qmd)
+    <span style="font-size: 15px;">Charness, G., Chemaya, N. & Trujano-Ochoa, D. (2023). Learning your own risk preferences. Journal of Risk Uncertainty 67, 1–19. https://doi.org/10.1007/s11166-023-09413-3</span>
+
+- ### [Citizen Candidates in the Lab: Rules, Costs, and Positions](citizenCandidatesLab.qmd)
+    <span style="font-size: 15px;">Elbittar, Gomberg, Trujano-Ochoa (2021). Citizen Candidates in the Lab: Rules, Costs, and Positions; Journal of Behavioral and Experimental Economics, 112. https://doi.org/10.1016/j.socec.2024.102276</span>
+    
+- ### [The role of cognitive and personality characteristics in timely microcredit repayment: Evidence from a survey conducted by Provident, Mexico](cognitivePersonalityMicrocredit.qmd)
+    <span style="font-size: 15px;">Giannatale, Sonia Di, Ventosa-Santaulària, Daniel, Roa, María José, Elbittar, Alexander, & Trujano, Darío. (2020). The Role of Cognitive and Personality Characteristics in Timely Microcredit Repayment: Evidence from a Survey Conducted by Provident, Mexico. Ensayos. Revista de economía, 39(1), 1-20. Epub 12 de abril de 2021.https://doi.org/10.29105/ensayos39.1-1</span>
+
+:::
+
+:::
+
+__You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=T-xX3w0AAAAJ&hl=en) profile.__
+</div>

@@ -1,0 +1,78 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  background-image: url('images/background2.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+</style>
+
+<div class="slide-text">Dario Trujano Ochoa</div>
+
+# Welcome to My Website
+
+## About Me
+<div class="section">
+![About Me](images/dario1.png){.image-left}
+
+I am in the last year of my [PhD in Economics at the University of California Santa Barbara](https://econ.ucsb.edu/people/students/dario-trujano-ochoa), where I have developed research in Experimental and Behavioral Economics. My research is centered on how individuals process information, form beliefs, and make decisions under uncertainty, with a focus on misinformation and risk preferences. I combine experimental methods and theoretical modeling to explore these areas, particularly higher-order beliefs, feedback mechanisms, and how people value information.
+
+Recently, I coauthored the paper “Learning Your Own Risk Preferences,” published in the Journal of Risk and Uncertainty, where I investigate how individuals reassess their own risk preferences over time and through feedback. I published this paper with Nir Chemaya, an excellent researcher from the same cohort, and Gary Charness, who unexpectedly left us. During the PhD, I kept working on papers I started in Mexico that were finally published. Finally, I designed, programmed, and implemented my own experiments, where I studied higher-order belief updating the value of information, and the willingness to pay to verify in the context of verification.
+
+I am currently in the Job Market as I near the completion of my Ph.D. in 2025. I’m excited to continue my work in economic research, focusing on information economics and decision theory. My JMP explores the feedback’s role in improving decision-making accuracy, especially in combating misinformation.
+</div>
+
+---
+
+## Where Am I From?
+<div class="section">
+![Palacio de Bellas Artes, Mexico City](images/mexicocity.jpg){.image-left}
+
+I was born in Mexico City and studied at UNAM, where I got a Bachelor’s degree in Psychology and studied a Specialty in Statistics. There, I became interested in experimental methods and behavior models. With this background, I naturally moved to Economics and decided to study for my Master’s at CIDE, where I was exposed to more rigorous mathematical analysis. I worked after graduation, but I had already decided to study Economics in the US. Because of this, I applied for the Fulbright-García Robles scholarship and started my PhD at UCSB.
+</div>
+
+---
+
+## Where Am I Going?
+<div class="section">
+![Academia](images/academia.jpg){.image-left}
+
+After graduation, I expect to work in academia, explore the topics that intrigued me during the PhD, and collaborate with other researchers. I prefer positions in the US, Canada, Europe, and Mexico. Still, the most important thing is to have a place where I can continue working on the topics I am interested in and increase collaboration networks.
+</div>
+
+---
+
+<div class="social-icons">
+  <a href="contact.html" target="_self">
+  <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#ffcc00" d="M24 21h-24v-18h24v18zm-23-16.477v15.477h22v-15.477l-10.999 10-11.001-10zm21.089-.523h-20.176l10.088 9.171 10.088-9.171z"/>
+  </svg>
+</a>
+  <a href="https://x.com/DarioTrujano" target="_blank">
+    <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#ffcc00" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-.139 9.237c.209 4.617-3.234 9.765-9.33 9.765-1.854 0-3.579-.543-5.032-1.475 1.742.205 3.48-.278 4.86-1.359-1.437-.027-2.649-.976-3.066-2.28.515.098 1.021.069 1.482-.056-1.579-.317-2.668-1.739-2.633-3.26.442.246.949.394 1.486.411-1.461-.977-1.875-2.907-1.016-4.383 1.619 1.986 4.038 3.293 6.766 3.43-.479-2.053 1.08-4.03 3.199-4.03.943 0 1.797.398 2.395 1.037.748-.147 1.451-.42 2.086-.796-.246.767-.766 1.41-1.443 1.816.664-.08 1.297-.256 1.885-.517-.439.656-.996 1.234-1.639 1.697z"/>
+    </svg>
+  </a>
+  <a href="https://github.com/DarioTrujanoOchoa" target="_blank">
+    <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#ffcc00" d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"/>
+    </svg>
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=T-xX3w0AAAAJ" target="_blank">
+    <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#ffcc00" d="M20 12.875v5.068c0 2.754-5.789 4.057-9 4.057-3.052 0-9-1.392-9-4.057v-6.294l9 4.863 9-3.637zm-8.083-10.875l-12.917 5.75 12 6.5 11-4.417v7.167h2v-8.25l-12.083-6.75zm13.083 20h-4c.578-1 1-2.5 1-4h2c0 1.516.391 2.859 1 4z"/>
+    </svg>
+  </a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0003-1106-4088" target="_blank">
+    <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path fill="#ffcc00" d="M24 4h-7v2h7v-2zm0 4h-7v2h7v-2zm0 4h-7v2h7v-2zm-4 9.193v.807h-2v-.984c0-1.329.085-1.713-1.208-2.013-2.479-.572-4.822-1.112-5.714-3.067-.333-.728-.556-1.921.266-3.473 1.646-3.109 2.075-5.746 1.179-7.235-.644-1.069-1.856-1.228-2.523-1.228-.672 0-1.896.163-2.546 1.254-.9 1.511-.464 4.132 1.194 7.191.839 1.547.622 2.744.292 3.476-.887 1.966-3.318 2.526-5.67 3.068-1.348.309-1.27.675-1.27 2.011v1h-1.996l-.004-.833c-.009-2.224.088-3.495 2.647-4.086 2.805-.647 5.573-1.227 4.242-3.682-3.943-7.275-1.123-11.399 3.111-11.399 4.154 0 7.042 3.971 3.111 11.398-1.292 2.44 1.375 3.02 4.242 3.682 2.569.594 2.657 1.873 2.647 4.113z"/>
+    </svg>
+  </a>
+</div>

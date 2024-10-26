@@ -1,0 +1,34 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/abstract3.png');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+# The Effect of Feedback on News Verification Demand: Experimental Evidence (JMP)
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Published: October 30, 2024
+</span>
+
+This study explores the decision-making processes involved in classifying information in the context of headlines that may be accurate or false. The experiment investigates how different types of feedback influence the willingness to pay for headline verification. Three treatment conditions are examined: no feedback, feedback on own performance, and feedback on group classification performance. The findings provide empirical insights into the dynamics of information spread, confidence, and the value of information. These have implications for understanding and mitigating the effects of misinformation in political contexts.
+
+---
+
+## Full Paper
+
+<iframe src="papers/Feedback_to_fight_Misinformation.pdf" width="150%" height="800px" style="border:1px solid #ccc; border-radius: 8px;"></iframe>

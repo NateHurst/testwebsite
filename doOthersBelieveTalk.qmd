@@ -1,0 +1,33 @@
+---
+format: html
+css: styles.css
+---
+
+<style>
+body {
+  color: black;
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+
+<div class="floating-box">
+# Do Others Believe the Same? Experimental Analysis of Higher-Order Learning and WTP for Information
+
+<span style="font-weight: bold; font-size: 16px; color: #edaf1c;">
+  📅 Date: October 05, 2023
+</span>
+
+This research explores whether agents consider others’ biases in their belief updating when priors are known to be different and how information acquisition depends on whose strategy is implemented. The strategy method is implemented in a bookbag-and-poker-chip experiment to elicit first and second-order posterior beliefs, and the BDM mechanism is used to elicit their WTP to implement their or others’ strategy. The deviations from Bayes’s rule found were consistent with previous literature. On average, participants expect others to have the same posterior beliefs independently if they share a common prior or not. However, the presence of heterogeneous priors increases the distance between posterior beliefs and the expectations about others. Finally, it is shown that participants exhibit a larger willingness to pay for information when they implement their strategy rather than the strategy of another participant, which contradicts strategic thinking.
+
+I presented this paper in the [ESA NAM 2023](https://sites.google.com/uncc.edu/esa-charlotte-2023/program_1?authuser=0).
+---
+</div>

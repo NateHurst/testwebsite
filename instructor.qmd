@@ -1,0 +1,35 @@
+---
+format: html
+---
+<style>
+body {
+  font-size: 1em;
+  background-image: url('images/board1.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-attachment: fixed;    
+  background-position: center;     
+  color: white;                   
+}
+a {
+    color: #42d7f5;
+}
+</style>
+<div class="floating-box">
+# Instructor
+
+Courses where I have experience as the instructor, *UCSB, UNAM,* 2024
+
+**List of courses where I have been the instructor**
+
+### UCSB
+
+- **ECON 199A:** Research with one Undergrad Student
+- **ECON 5:** Statistics for Economics  
+  (Fall 2023, Summer 2023, Winter 2023, Fall 2021)
+
+### UNAM
+
+- **Microeconomics:** What Every Psychologist Must Know (July 2017)
+- **Mathematical Statistics for Psychologists** (July 2017)
+</div>
